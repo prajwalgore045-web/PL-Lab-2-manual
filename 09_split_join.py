@@ -1,0 +1,1 @@
+s=input();l=s.split();print(l);print(' '.join(l))

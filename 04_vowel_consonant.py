@@ -1,0 +1,1 @@
+s=input();v=sum(1 for i in s if i.lower() in 'aeiou');c=sum(1 for i in s if i.isalpha() and i.lower() not in 'aeiou');print(v,c)
