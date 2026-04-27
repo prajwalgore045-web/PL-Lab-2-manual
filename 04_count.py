@@ -1,0 +1,1 @@
+f=open('a.txt');d=f.read();print(len(d.split()),len(d));f.close()

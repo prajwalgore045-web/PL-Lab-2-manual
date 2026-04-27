@@ -1,0 +1,1 @@
+open('b.txt','w').write(open('a.txt').read())

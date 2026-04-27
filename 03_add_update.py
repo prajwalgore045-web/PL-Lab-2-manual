@@ -1,0 +1,1 @@
+d={'a':1};d['b']=2;d.update({'a':5});print(d)

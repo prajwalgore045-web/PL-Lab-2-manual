@@ -1,0 +1,1 @@
+f=open('a.txt','w');f.write('hello');f.close()

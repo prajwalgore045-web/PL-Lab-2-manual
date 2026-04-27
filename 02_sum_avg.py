@@ -1,0 +1,1 @@
+t=tuple(map(int,input().split()));print(sum(t),sum(t)/len(t))

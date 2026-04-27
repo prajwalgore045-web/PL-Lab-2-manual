@@ -1,0 +1,1 @@
+n=int(input());l=[int(input()) for _ in range(n)];print(l[:3],l[-3:],l[1:-1])

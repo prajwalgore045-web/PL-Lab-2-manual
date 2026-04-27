@@ -1,0 +1,1 @@
+d={'a':10,'b':50,'c':30};print(max(d,key=d.get))

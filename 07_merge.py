@@ -1,0 +1,1 @@
+n=int(input());l1=[int(input()) for _ in range(n)];m=int(input());l2=[int(input()) for _ in range(m)];print(l1+l2)

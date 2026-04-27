@@ -1,0 +1,1 @@
+l=list(map(int,input().split()));print(len(l),max(l),min(l),sum(l))

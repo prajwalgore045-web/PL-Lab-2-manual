@@ -1,0 +1,1 @@
+t=tuple(map(int,input().split()));x=int(input());print(t.count(x))

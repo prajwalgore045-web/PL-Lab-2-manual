@@ -1,0 +1,1 @@
+n=int(input());l=sorted(set(int(input()) for _ in range(n)));print(l[-2])

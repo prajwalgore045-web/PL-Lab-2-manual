@@ -1,0 +1,1 @@
+n=int(input());l=[int(input()) for _ in range(n)];x=int(input());print('Found' if x in l else 'Not Found')

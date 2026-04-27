@@ -1,0 +1,1 @@
+d={'name':input(),'marks':int(input())};print(d)

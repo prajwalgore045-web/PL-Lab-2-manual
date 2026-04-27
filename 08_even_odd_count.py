@@ -1,0 +1,1 @@
+n=int(input());l=[int(input()) for _ in range(n)];e=sum(1 for i in l if i%2==0);o=len(l)-e;print(e,o)

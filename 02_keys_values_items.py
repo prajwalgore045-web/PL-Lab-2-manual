@@ -1,0 +1,1 @@
+d={'a':1,'b':2};print(d.keys(),d.values(),d.items())
